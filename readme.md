@@ -42,7 +42,7 @@ Exceptions and Generics|
 
 Java OOP Advanced
 
-In the afternoon: [Rock Paper Scissors Lizard Spock tournament!](https://github.com/madjaqk/Java-Projects/tree/master/RockPaperScissorsLizardSpock/src/RPSLS)
+In the afternoon: [Rock Paper Scissors Lizard Spock tournament!](https://github.com/madjaqk/Java-Projects/tree/master/RockPaperScissorsLizardSpock)
 
 Assignments| 
 ---| 
